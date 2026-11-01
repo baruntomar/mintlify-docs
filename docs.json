@@ -37,7 +37,7 @@
     }
   },
   "logo": {
-    "light": "/images/bollywar-wordmark-on-dark-64h.png",
+    "light": "/images/bollywar-wordmark-on-light-64h.png",
     "dark": "/images/bollywar-wordmark-on-dark-64h.png"
   },
   "navbar": {
