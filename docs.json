@@ -12,15 +12,6 @@
     "dark": "/images/bollywar-crown-64.png"
   },
   "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -34,7 +25,26 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Guides"
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Legal",
+            "pages": [
+              "legal/terms-and-conditions",
+              "legal/privacy-policy",
+              "legal/content-policies",
+              "legal/code-of-conduct"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/bollywar-wordmark-on-light-64h.png",
@@ -69,5 +79,8 @@
     "socials": {
       "x": "https://x.com/bolly_war"
     }
+  },
+  "fonts": {
+    "family": "Inter"
   }
 }
