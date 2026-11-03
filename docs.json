@@ -67,7 +67,7 @@
     "primary": {
       "type": "button",
       "label": "Support",
-      "href": "mail-to:contact@bollywar.com"
+      "href": "mailto:contact@bollywar.com"
     }
   },
   "contextual": {
