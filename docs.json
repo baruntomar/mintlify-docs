@@ -28,7 +28,20 @@
     },
     "tabs": [
       {
-        "tab": "Guides"
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Individual",
+            "pages": [
+              {
+                "group": "About",
+                "pages": [
+                  "about-us"
+                ]
+              }
+            ]
+          }
+        ]
       },
       {
         "tab": "Legal",
