@@ -64,16 +64,10 @@
     "dark": "/images/bollywar-wordmark-on-dark-64h.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Support",
+      "href": "mail-to:contact@bollywar.com"
     }
   },
   "contextual": {
