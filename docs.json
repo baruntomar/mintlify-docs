@@ -89,5 +89,10 @@
   },
   "fonts": {
     "family": "Inter"
+  },
+  "thumbnails": {
+    "fonts": {
+      "family": "Inter"
+    }
   }
 }
